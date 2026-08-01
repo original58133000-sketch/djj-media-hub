@@ -7,3 +7,20 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 # ===== 國際新聞 =====
 #EXTINF:-1 group-title="📰 新聞",NASA TV
 https://ntv1.akamaized.net/hls/live/2016873/NASA-NTV1/master.m3u8
+
+# ===== 動畫資訊 =====
+
+#EXTINF:-1 group-title="🎌 Anime",GundamInfo
+https://www.youtube.com/@GundamInfo/streams
+
+#EXTINF:-1 group-title="🎌 Anime",Muse木棉花
+https://www.youtube.com/@MuseTW/streams
+
+#EXTINF:-1 group-title="🎌 Anime",Muse闔家歡
+https://www.youtube.com/@Muse_Family/streams
+
+#EXTINF:-1 group-title="🎌 Anime",Ani-One Asia
+https://www.youtube.com/@AniOneAsia/streams
+
+#EXTINF:-1 group-title="🎌 Anime",Pokemon Asia
+https://www.youtube.com/@PokemonAsiaENG
